@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyrylo</h1>
 <h3 align="center">Third-Year Computer Science Student @ Lancaster University</h3>
-
-- 🔭 I’m currently working on **Scene-Aware Text-To-Motion**
-
-- 🌱 I’m currently learning **Game development**
-
 - 👨‍💻 All of my projects are available at [https://kyrylo.uk/](https://kyrylo.uk/)
 
 <h3 align="left">Connect with me:</h3>
