@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kyrylo
 
 ## About Me
-I'm a **Computer Science Graduate** from Lancaster University. I enjoy building projects and learning new technologies.
+I'm a **Computer Science Graduate** from Lancaster University.
 
 - 👨‍💻 Check out my projects: [kyrylo.uk](https://kyrylo.uk/)  
 - 📫 Connect with me: [LinkedIn](https://kyrylo.uk/) | [GitHub](https://github.com/kyrylo234)
@@ -10,8 +10,10 @@ I'm a **Computer Science Graduate** from Lancaster University. I enjoy building 
 
 ## Currently Working On
 - Developing an **IoT project using the ESP32** with a Flutter mobile phone app
+  - A chimer for a vehicle going over the speed limit (set on the app)
 - Developing a mobile phone application using Flutter and Drift
-- Improving my **personal website** and portfolio improvements  
+  - Vehicle service and refuel tracker 
+- Improving my **portfolio website**
 
 
 ---
