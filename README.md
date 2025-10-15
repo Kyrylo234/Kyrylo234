@@ -22,6 +22,10 @@
 A portfolio site in the style of the **Ubuntu Linux desktop** — built with React.js and JavaScript.  
 📂 [View Repo](https://github.com/Kyrylo234/Linux_portfolio_website)
 
+<p align="center">
+  <img src="images/Website.png" alt="Porfoilo Website" width="80%">
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
@@ -44,6 +48,10 @@ A Flutter app to track vehicle maintenance and part replacements — using the D
 
 ### 🧑‍🏫 [Computer Science PowerPoint](https://github.com/Kyrylo234/CSPPT)
 A presentation tool for computer scientists with **live coding**, **UML diagrams**, and an **inbuilt terminal**, created in Java Swing.
+
+<p align="center">
+  <img src="images/CSPPT1.png" alt="PowerPoint" width="80%">
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
