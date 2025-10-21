@@ -18,7 +18,8 @@
 ## 🧩 Featured Projects
 
 ### 🖥️ [React.js Portfolio Website](https://kyrylo.uk/)
-A portfolio site in the style of the **Ubuntu Linux desktop** — built with React.js and JavaScript.  
+Portfolio website styled like either the Ubuntu Linux desktop or an iOS device, featuring a Falling Blocks game with persistent high scores. Built with React.js, Node.js, and SQLite3.
+
 📂 [View Repo](https://github.com/Kyrylo234/Linux_portfolio_website)
 
 <p align="center">
@@ -28,6 +29,8 @@ A portfolio site in the style of the **Ubuntu Linux desktop** — built with Rea
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 </p>
