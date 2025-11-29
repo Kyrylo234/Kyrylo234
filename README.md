@@ -38,7 +38,7 @@ Portfolio website styled like either the Ubuntu Linux desktop or an iOS device, 
 ---
 
 ### 🖼️ [Image To STL](https://github.com/Kyrylo234/image_to_stl)
-Convert any images into 3D printable STL models with Python!
+Convert any image into 3D printable STL models with Python!
 
 <p align="center">
   <img src="images/photo2.png" alt="PowerPoint" width="80%">
