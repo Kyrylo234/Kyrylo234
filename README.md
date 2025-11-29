@@ -37,6 +37,23 @@ Portfolio website styled like either the Ubuntu Linux desktop or an iOS device, 
 
 ---
 
+### 🖼️ [Image To STL](https://github.com/Kyrylo234/image_to_stl)
+Convert any images into 3D printable STL models with Python!
+
+<p align="center">
+  <img src="images/photo2.png" alt="PowerPoint" width="80%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pillow-FFD43B?style=flat&logo=pillow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Trimesh-FF6600?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gradio-1DA1F2?style=flat&logo=gradio&logoColor=white" />
+</p>
+
+---
+
 ### 🚗 Vehicle Service Tracker
 A Flutter app to track vehicle maintenance and part replacements — using the Drift database.
 
