@@ -17,6 +17,25 @@
 
 ## 🧩 Featured Projects
 
+### 🏎️ [3D Touge Chimer Shop](https://kyrylo.uk/)
+Interactive 3D shop showcasing my Touge Chimer product
+
+<p align="center">
+  <img src="images/threeJS.gif" alt="Porfoilo Website" width="80%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white">
+  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+</p>
+
+---
+
 ### 🖥️ [React.js Portfolio Website](https://kyrylo.uk/)
 Portfolio website styled like either the Ubuntu Linux desktop or an iOS device, featuring a Falling Blocks game with persistent high scores. Built with React.js, Node.js, and SQLite3.
 
