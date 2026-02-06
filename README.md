@@ -9,16 +9,15 @@
 ---
 
 ## 🧠 About Me
-🎓 **Computer Science Graduate** from Lancaster University  
-🚀 Passionate about **software development**, **mobile apps**, and **IoT systems**  
-💡 Currently building an **ESP32-powered speed chime** controlled by a **Flutter app**
+🎓 **Computer Science** graduate from **Lancaster University**  
+💡 Currently building an **ESP32**-powered mechanical chime based on the Toyota AE-86 speeding chimer, controlled by a **Flutter app** and sold on a **Three.js** website.
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 My Favourite Projects
 
 ### 🏎️ [3D Touge Chimer Shop](https://kyrylo.uk/)
-Interactive 3D shop showcasing my Touge Chimer product
+Interactive 3D shop showcasing my Touge Chimer product built with Three.js.
 
 <p align="center">
   <img src="images/threeJS.gif" alt="Porfoilo Website" width="80%">
@@ -73,17 +72,6 @@ Convert any image into 3D printable STL models with Python!
 
 ---
 
-### 🚗 Vehicle Service Tracker
-A Flutter app to track vehicle maintenance and part replacements — using the Drift database.
-
-<p>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/-Drift-FF6F61?style=flat&logo=sqlite&logoColor=white">
-</p>
-
----
-
 ### 🧑‍🏫 [Computer Science PowerPoint](https://github.com/Kyrylo234/CSPPT)
 A presentation tool for computer scientists with **live coding**, **UML diagrams**, and an **inbuilt terminal**, created in Java Swing.
 
@@ -95,25 +83,6 @@ A presentation tool for computer scientists with **live coding**, **UML diagrams
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
-
----
-
-### 📚 [Database Project](https://github.com/Kyrylo234/Database-project)
-A web app that stores and displays books a person has read, built with PHP and MySQL.
-
-<p>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-</p>
-
----
-
-## ⚙️ Currently Working On
-- 🚗 **ESP32 + Flutter IoT project:** A mechanical chime that sounds when exceeding a GPS-set speed limit  
-- 📱 **Vehicle Service Tracker:** Polishing out the app  
-- 🧰 **Improving** and expanding my **portfolio website**
 
 ---
 
