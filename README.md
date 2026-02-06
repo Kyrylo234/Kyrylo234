@@ -21,7 +21,7 @@
 ## 🧩 My Favourite Projects
 
 ### 🏎️ [3D Touge Chimer Shop](https://kyrylo.uk/)
-Interactive 3D shop showcasing my Touge Chimer product built with Three.js.
+Interactive 3D shop showcasing my product, built with **Three.js** and using **Stripe** payment processing.
 
 <p align="center">
   <img src="images/threeJS.gif" alt="Porfoilo Website" width="80%">
@@ -40,7 +40,7 @@ Interactive 3D shop showcasing my Touge Chimer product built with Three.js.
 ---
 
 ### 🖥️ [React.js Portfolio Website](https://kyrylo.uk/)
-Portfolio website styled like either the Ubuntu Linux desktop or an iOS device, featuring a Falling Blocks game with persistent high scores. Built with React.js, Node.js, and SQLite3.
+Portfolio website inspired by Ubuntu Linux or an iOS device (based on your device), featuring a Falling Blocks game with persistent high scores. Built with **React.js**, **Node.js**, and **SQLite3**.
 
 📂 [View Repo](https://github.com/Kyrylo234/Linux_portfolio_website)
 
@@ -60,7 +60,7 @@ Portfolio website styled like either the Ubuntu Linux desktop or an iOS device, 
 ---
 
 ### 🖼️ [Image To STL](https://github.com/Kyrylo234/image_to_stl)
-Convert any image into 3D printable STL models with Python!
+Convert any image into 3D printable STL models with **Python**!
 
 <p align="center">
   <img src="images/photo2.png" alt="PowerPoint" width="80%">
@@ -77,7 +77,7 @@ Convert any image into 3D printable STL models with Python!
 ---
 
 ### 🧑‍🏫 [Computer Science PowerPoint](https://github.com/Kyrylo234/CSPPT)
-A presentation tool for computer scientists with **live coding**, **UML diagrams**, and an **inbuilt terminal**, created in Java Swing.
+A presentation tool for computer scientists with **live coding**, **UML diagrams**, and an **inbuilt terminal**, created in **Java** Swing.
 
 <p align="center">
   <img src="images/CSPPT1.png" alt="PowerPoint" width="80%">
