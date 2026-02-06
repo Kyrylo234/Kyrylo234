@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kyrylo</h1>
-<h3 align="center">Computer Science Graduate | Full-Stack & Mobile Developer</h3>
+<h3 align="center">Computer Science graduate from Lancaster University</h3>
 
 <p align="center">
   <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
@@ -9,8 +9,12 @@
 ---
 
 ## 🧠 About Me
-🎓 **Computer Science** graduate from **Lancaster University**  
-💡 Currently building an **ESP32**-powered mechanical chime based on the Toyota AE-86 speeding chimer, controlled by a **Flutter app** and sold on a **Three.js** website.
+🚀 Passionate about **startups and innovation in Edinburgh**  
+
+💡 Current Projects:
+- **ESP32-powered mechanical chime** inspired by the Toyota AE-86 “speeding chimer”  
+- **Controlled via a Flutter app** 
+- **Showcased on a Three.js website** for live demo and visualization
 
 ---
 
