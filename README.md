@@ -39,6 +39,23 @@ Interactive 3D shop showcasing my product, built with **Three.js** and using **S
 
 ---
 
+### 📱 [Touge Chimer Controller App](https://kyrylo.uk/)
+An App to control the Touge Chimer device through Bluetooth, built with **Flutter**
+
+<p align="center">
+  <img src="images/TougeChimerApp.png" alt="Porfoilo Website" width="80%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bluetooth_LE-0082FC?style=flat&logo=bluetooth&logoColor=white">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/-iOS-000000?style=flat&logo=apple&logoColor=white">
+</p>
+
+---
+
 ### 🖥️ [React.js Portfolio Website](https://kyrylo.uk/)
 Portfolio website inspired by Ubuntu Linux or an iOS device (based on your device), featuring a Falling Blocks game with persistent high scores. Built with **React.js**, **Node.js**, and **SQLite3**.
 
