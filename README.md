@@ -13,12 +13,12 @@
 🚀 Passionate about **startups and innovation in Edinburgh**  
 
 💡 Current Projects:
-- ✅ 🔊 Touge Chimer
-  - **ESP32-powered** mechanical chime inspired by the Toyota AE-86 “speeding chimer”
-- ✅ 📱 Touge Chimer Controller App
-  - **Flutter** app to control the Touge Chimer device
-- 🕓 🏎️ 3D Touge Chimer Shop
-  - **Three.js** shop to showcase and sell the Touge Chimer device
+- 🔊 Touge Chimer
+  - **ESP32-powered** mechanical chime inspired by the Toyota AE-86 “speeding chimer” ✅
+- 📱 Touge Chimer Controller App
+  -  **Flutter** app to control the Touge Chimer device ✅
+- 🏎️ 3D Touge Chimer Shop
+  -  **Three.js** shop to showcase and sell the Touge Chimer device 🕓
 
 
 ## 🧠 Languages & Tools
