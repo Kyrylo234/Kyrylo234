@@ -57,10 +57,10 @@ Interactive 3D shop showcasing my product, built with **Three.js** and using **S
 
 
 ### 📱 [Touge Chimer Controller App](https://kyrylo.uk/)
-An App to control the Touge Chimer device through Bluetooth, built with **Flutter**
+Bluetooth companion app for the **Touge Chimer**, built with **Flutter** for Android and iOS.
 
 <p align="center">
-  <img src="images/TougeChimerApp.png" alt="Porfoilo Website" width="80%">
+  <img src="images/TougeChimerApp.png" alt="Touge Chimer App Demo" width="80%">
 </p>
 
 <p>
