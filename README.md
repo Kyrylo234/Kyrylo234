@@ -7,8 +7,6 @@
   <a href="https://www.kaggle.com/kyrylo234" target="_blank">🤖 Kaggle</a>
 </p>
 
----
-
 ## 🧑‍🔧 About Me
 🚀 Passionate about **startups and innovation in Edinburgh**  
 
