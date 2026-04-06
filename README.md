@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kyrylo</h1>
-<h3 align="center">Computer Science graduate from Lancaster University</h3>
+<h3 align="center">Incoming MSc Computer Science @ St Andrews • Building Touge Chime</h3>
 
 <p align="center">
   <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
@@ -10,13 +10,19 @@
 ## 🧑‍🔧 About Me
 🚀 Passionate about **startups and innovation in Edinburgh**  
 
+
 💡 Current Projects:
-- 🔊 Touge Chimer
-  - **ESP32-powered** mechanical chime inspired by the Toyota AE-86 “speeding chimer” ✅
-- 📱 Touge Chimer Controller App
-  -  **Flutter** app to control the Touge Chimer device ✅
-- 🏎️ 3D Touge Chimer Shop
-  -  **Three.js** shop to showcase and sell the Touge Chimer device 🕓
+- 🔊 Touge Chime
+  - **ESP32-powered** mechanical chime inspired by the Toyota AE-86 “speeding chime” ✅
+- 📱 Bluetooth Companion App
+  -  **Flutter** app to control the Touge Chime ✅
+- 🏎️ 3D Store
+  -  interactive **Three.js** shop to sell the Touge Chime ✅
+
+📈 Building Touge Chime in public 
+- 📸 [Instagram @power.bander](https://instagram.com/power.bander)
+- 🎵 [TikTok @powerbander](https://www.tiktok.com/@powerbander)
+- ▶️ [YouTube @Powerbander](https://www.youtube.com/@Powerbander) 
 
 
 ## 🧠 Favourite Languages & Tools
@@ -34,11 +40,11 @@
 
 ## 🧩 Recent Projects
 
-### 🏎️ [3D Touge Chimer Shop](https://powerbander.tech/)
+### 🏎️ [3D Touge Chime Shop](https://powerbander.tech/)
 Interactive 3D shop showcasing my product, built with **Next.js/Three.js**, using **Stripe** payment processing.
 
 <p align="center">
-  <img src="images/threeJS.gif" alt="Porfoilo Website" width="80%">
+  <img src="images/threeJS.gif" alt="Portfolio Website" width="80%">
 </p>
 
 <p>
@@ -59,11 +65,11 @@ Interactive 3D shop showcasing my product, built with **Next.js/Three.js**, usin
 ---
 
 
-### 📱 [Touge Chimer Controller App](https://kyrylo.uk/)
-Bluetooth companion app for the **Touge Chimer**, built with **Flutter** for Android and iOS.
+### 📱 [Touge Chime Controller App](https://kyrylo.uk/)
+Bluetooth companion app for the **Touge Chime**, built with **Flutter** for Android and iOS.
 
 <p align="center">
-  <img src="images/TougeChimerApp.png" alt="Touge Chimer App Demo" width="80%">
+  <img src="images/TougeChimerApp.png" alt="Touge Chime App Demo" width="80%">
 </p>
 
 <p>
@@ -82,7 +88,7 @@ Portfolio website inspired by Ubuntu Linux or an iOS device (based on your devic
 📂 [View Repo](https://github.com/Kyrylo234/Linux_portfolio_website)
 
 <p align="center">
-  <img src="images/Website.png" alt="Porfoilo Website" width="80%">
+  <img src="images/Website.png" alt="Portfolio Website" width="80%">
 </p>
 
 <p>
