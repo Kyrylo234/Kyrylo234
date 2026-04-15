@@ -69,7 +69,7 @@ Interactive 3D shop showcasing my product, built with **Next.js/Three.js**, usin
 Bluetooth companion app for the **Touge Chime**, built with **Flutter** for Android and iOS.
 
 <p align="center">
-  <img src="images/TougeChimerApp.png" alt="Touge Chime App Demo" width="80%">
+  <img src="images/TougeChimeApp.png" alt="Touge Chime App Demo" width="80%">
 </p>
 
 <p>
