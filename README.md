@@ -19,10 +19,13 @@
 - 🏎️ 3D Store
   -  interactive **Three.js** shop to sell the Touge Chime ✅
 
-📈 Building Touge Chime in public 
-- 📸 [Instagram @power.bander](https://instagram.com/power.bander)
-- 🎵 [TikTok @powerbander](https://www.tiktok.com/@powerbander)
-- ▶️ [YouTube @Powerbander](https://www.youtube.com/@Powerbander) 
+## 📈 Building Touge Chime in public
+
+[![Instagram](https://img.shields.io/badge/Instagram-@power.bander-E4405F?logo=instagram&logoColor=white)](https://instagram.com/power.bander)
+
+[![TikTok](https://img.shields.io/badge/TikTok-@powerbander-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@powerbander)
+
+[![YouTube](https://img.shields.io/badge/YouTube-@Powerbander-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Powerbander)
 
 
 ## 🧠 Favourite Languages & Tools
