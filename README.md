@@ -68,7 +68,7 @@ Interactive 3D shop showcasing my product, built with **Next.js/Three.js**, usin
 ---
 
 
-### 📱 [Touge Chime Controller App](https://kyrylo.uk/)
+### 📱 [Touge Chime Controller App](https://apps.apple.com/app/powerbander/id6762231997)
 Bluetooth companion app for the **Touge Chime**, built with **Flutter** for Android and iOS.
 
 <p align="center">
