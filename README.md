@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kyrylo</h1>
-<h3 align="center">Incoming MSc Computer Science @ St Andrews • Founder of Touge Chime • Startup Enthusiast</h3>
+<h3 align="center">Incoming MSc Computer Science @ St Andrews • Maker of Touge Chime • Startup Enthusiast</h3>
 
 <p align="center">
   <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
@@ -12,7 +12,7 @@
 📬 **40+ email subscribers** and growing • building in public  
 
 💡 Current Projects:
-- 🔔 **Touge Chime** — ESP32-powered mechanical chime inspired by the Toyota AE86 "speeding chime" · **[Live & Selling (Soon)](https://powerbander.tech/)** ✅
+- 🔔 **Touge Chime** — ESP32-powered mechanical chime inspired by the Toyota AE86 "speeding chime" · **[Launching Soon](https://powerbander.tech/)** ✅
 - 📱 **Bluetooth Companion App** — Flutter app to control the Touge Chime · **[App Store](https://apps.apple.com/app/powerbander/id6762231997)** ✅
 - 🏎️ **3D Store** — Interactive Three.js shop with Stripe checkout · **[powerbander.tech](https://powerbander.tech/)** ✅
 
@@ -40,7 +40,17 @@
 ### 🔔 [Touge Chime](https://powerbander.tech/)
 A mechanical chime device recreating the iconic Toyota AE86 "speeding chime", powered by an **ESP32**. Designed, built, and sold independently — from firmware to Bluetooth app to 3D store.
 
-> 📬 **41 email subscribers** · 🛒 Actively selling · 🔧 Hardware + software end-to-end
+<p align="center">
+  <img src="images/chime.png" alt="Touge Chime App Demo" width="80%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c">
+  <img src="https://img.shields.io/badge/-ESP32-008000?style=flat&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bluetooth_LE-0082FC?style=flat&logo=bluetooth&logoColor=white">
+</p>
+
+> 📬 **40+ email subscribers** · 🛒 Launching soon · 🔧 Hardware + software end-to-end
 
 ---
 
