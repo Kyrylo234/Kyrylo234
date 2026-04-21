@@ -3,16 +3,17 @@
 
 <p align="center">
   <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/kyryloposty/" target="_blank">💼 LinkedIn</a>  |
+  <a href="https://www.linkedin.com/in/kyryloposty/" target="_blank">💼 LinkedIn</a> |
   <a href="https://www.kaggle.com/kyrylo234" target="_blank">🤖 Kaggle</a>
 </p>
 
 ## 🧑‍🔧 About Me
-🚀 Passionate about **hardware startups and indie making** — currently selling my first product  
+🚀 Passionate about **hardware startups and indie making** — currently launching my first product  
 📬 **40+ email subscribers** and growing • building in public  
+📸 **80k+ views in the last 30 days** on Instagram alone
 
 💡 Current Projects:
-- 🔔 **Touge Chime** — ESP32-powered mechanical chime inspired by the Toyota AE86 "speeding chime" · **[Launching Soon](https://powerbander.tech/)** ✅
+- 🔔 **Touge Chime** — ESP32-powered mechanical chime inspired by the Toyota AE86 "speeding chime" · **[Launching Soon](https://powerbander.tech/)**
 - 📱 **Bluetooth Companion App** — Flutter app to control the Touge Chime · **[App Store](https://apps.apple.com/app/powerbander/id6762231997)** ✅
 - 🏎️ **3D Store** — Interactive Three.js shop with Stripe checkout · **[powerbander.tech](https://powerbander.tech/)** ✅
 
@@ -41,7 +42,7 @@
 A mechanical chime device recreating the iconic Toyota AE86 "speeding chime", powered by an **ESP32**. Designed, built, and sold independently — from firmware to Bluetooth app to 3D store.
 
 <p align="center">
-  <img src="images/chime.png" alt="Touge Chime App Demo" width="80%">
+  <img src="images/chime.png" alt="Touge Chime" width="80%">
 </p>
 
 <p>
@@ -50,7 +51,7 @@ A mechanical chime device recreating the iconic Toyota AE86 "speeding chime", po
   <img src="https://img.shields.io/badge/-Bluetooth_LE-0082FC?style=flat&logo=bluetooth&logoColor=white">
 </p>
 
-> 📬 **40+ email subscribers** · 🛒 Launching soon · 🔧 Hardware + software end-to-end
+> 📬 **40+ email subscribers** · 📸 **80k+ views / 30 days** · 🔧 Hardware + software end-to-end
 
 ---
 
@@ -119,7 +120,7 @@ Portfolio website inspired by Ubuntu Linux or an iOS device (based on your devic
 Convert any image into 3D printable STL models with **Python**!
 
 <p align="center">
-  <img src="images/photo2.png" alt="PowerPoint" width="80%">
+  <img src="images/photo2.png" alt="Image To STL" width="80%">
 </p>
 
 <p>
@@ -128,18 +129,4 @@ Convert any image into 3D printable STL models with **Python**!
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Trimesh-FF6600?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gradio-1DA1F2?style=flat&logo=gradio&logoColor=white" />
-</p>
-
----
-
-### 🧑‍🏫 [Computer Science PowerPoint](https://github.com/Kyrylo234/CSPPT)
-A presentation tool for computer scientists with **live coding**, **UML diagrams**, and an **inbuilt terminal**, created in **Java** Swing.
-
-<p align="center">
-  <img src="images/CSPPT1.png" alt="PowerPoint" width="80%">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
