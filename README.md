@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kyrylo</h1>
-<h3 align="center">Incoming MSc Computer Science @ St Andrews • Building Touge Chime</h3>
+<h3 align="center">Incoming MSc Computer Science @ St Andrews • Founder of Touge Chime • Startup Enthusiast</h3>
 
 <p align="center">
   <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
@@ -8,25 +8,19 @@
 </p>
 
 ## 🧑‍🔧 About Me
-🚀 Passionate about **startups and innovation in Edinburgh**  
-
+🚀 Passionate about **hardware startups and indie making** — currently selling my first product  
+📬 **40+ email subscribers** and growing • building in public  
 
 💡 Current Projects:
-- 🔊 Touge Chime
-  - **ESP32-powered** mechanical chime inspired by the Toyota AE-86 “speeding chime” ✅
-- 📱 Bluetooth Companion App
-  -  **Flutter** app to control the Touge Chime ✅
-- 🏎️ 3D Store
-  -  interactive **Three.js** shop to sell the Touge Chime ✅
+- 🔔 **Touge Chime** — ESP32-powered mechanical chime inspired by the Toyota AE86 "speeding chime" · **[Live & Selling (Soon)](https://powerbander.tech/)** ✅
+- 📱 **Bluetooth Companion App** — Flutter app to control the Touge Chime · **[App Store](https://apps.apple.com/app/powerbander/id6762231997)** ✅
+- 🏎️ **3D Store** — Interactive Three.js shop with Stripe checkout · **[powerbander.tech](https://powerbander.tech/)** ✅
 
 ## 📈 Building Touge Chime in public
 
 [![Instagram](https://img.shields.io/badge/Instagram-@power.bander-E4405F?logo=instagram&logoColor=white)](https://instagram.com/power.bander)
-
 [![TikTok](https://img.shields.io/badge/TikTok-@powerbander-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@powerbander)
-
 [![YouTube](https://img.shields.io/badge/YouTube-@Powerbander-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Powerbander)
-
 
 ## 🧠 Favourite Languages & Tools
 <p>
@@ -42,6 +36,13 @@
 </p>
 
 ## 🧩 Recent Projects
+
+### 🔔 [Touge Chime](https://powerbander.tech/)
+A mechanical chime device recreating the iconic Toyota AE86 "speeding chime", powered by an **ESP32**. Designed, built, and sold independently — from firmware to Bluetooth app to 3D store.
+
+> 📬 **41 email subscribers** · 🛒 Actively selling · 🔧 Hardware + software end-to-end
+
+---
 
 ### 🏎️ [3D Touge Chime Shop](https://powerbander.tech/)
 Interactive 3D shop showcasing my product, built with **Next.js/Three.js**, using **Stripe** payment processing.
@@ -66,7 +67,6 @@ Interactive 3D shop showcasing my product, built with **Next.js/Three.js**, usin
 </p>
 
 ---
-
 
 ### 📱 [Touge Chime Controller App](https://apps.apple.com/app/powerbander/id6762231997)
 Bluetooth companion app for the **Touge Chime**, built with **Flutter** for Android and iOS.
