@@ -9,7 +9,7 @@
 
 ## 🧑‍🔧 About Me
 🚀 Passionate about **hardware startups and indie making** — currently launching my first product  
-📬 *50+ email subscribers** and growing • building in public  
+📬 **50+ email subscribers** and growing • building in public  
 📸 **85k+ views in the last 30 days** on Instagram alone
 
 💡 Current Projects:
