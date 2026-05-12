@@ -8,9 +8,9 @@
 </p>
 
 ## 🧑‍🔧 About Me
-🚀 Passionate about **startups in the UK** — currently launching my first product  
-📬 **50+ email subscribers** and growing • building in public  
-📸 **85k+ views in the last 30 days** on Instagram alone
+🚀 Passionate about **startups** — currently launching my first product  
+📬 **70+ email subscribers** and growing • building in public  
+📸 **120k+** views on **Instagram** & **50k+** views on **TikTok**
 
 💡 Current Projects:
 - 🔔 **Touge Chime** — ESP32-powered mechanical chime inspired by the Toyota AE86 "speeding chime" · **[Launching Soon](https://powerbander.tech/)**
@@ -19,7 +19,7 @@
 
 ## 📈 Building Touge Chime in public
 
-[![Instagram](https://img.shields.io/badge/Instagram-@power.bander-E4405F?logo=instagram&logoColor=white)](https://instagram.com/power.bander)
+[![Instagram](https://img.shields.io/badge/Instagram-@power.bander-E4405F?logo=instagram&logoColor=white)](https://instagram.com/powerbander)
 [![TikTok](https://img.shields.io/badge/TikTok-@powerbander-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@powerbander)
 [![YouTube](https://img.shields.io/badge/YouTube-@Powerbander-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Powerbander)
 
