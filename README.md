@@ -9,8 +9,8 @@
 
 ## 🧑‍🔧 About Me
 🚀 Passionate about **startups** — currently launching my first product  
-📬 **70+ email subscribers** and growing • building in public  
-📸 **120k+** views on **Instagram** & **50k+** views on **TikTok**
+📬 **90+ email subscribers** and growing • building in public  
+📸 **130k+** views on **Instagram** & **70k+** views on **TikTok**
 
 💡 Current Projects:
 - 🔔 **Touge Chime** — ESP32-powered mechanical chime inspired by the Toyota AE86 "speeding chime" · **[Launching Soon](https://powerbander.tech/)**
