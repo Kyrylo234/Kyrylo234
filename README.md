@@ -10,7 +10,7 @@
 ## 🧑‍🔧 About Me
 🚀 Building **[PowerBander](https://powerbander.tech/)** - a JDM-inspired hardware brand
 <br>🔔 Currently launching **Touge Chime**
-<br>📬 **100 email subscribers** for batch 1
+<br>📬 **100+ email subscribers** for batch 1
 <br>📸 **450+ followers** on Instagram with **150k+** organic views
 
 <p>
@@ -69,7 +69,7 @@
 <br>
 
 ### 📱 [Touge Chime Controller App](https://apps.apple.com/app/powerbander/id6762231997)
-- Bluetooth LE companion app for  **Touge Chime**, built with  **Flutter**.
+- Bluetooth LE companion app for **Touge Chime**, built with  **Flutter**.
 - Features BLE speed control, live speedometer, and 10 JDM car themes
 - Available on iOS · Android coming soon
 
