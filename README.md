@@ -14,7 +14,7 @@
 <br>📸 **450+ followers** on Instagram with **150k+** organic views
 
 <p>
-  <a href="https://instagram.com/power.bander"><img src="https://img.shields.io/badge/Instagram-@power.bander-E4405F?logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/power.bander"><img src="https://img.shields.io/badge/Instagram-@powerbander-E4405F?logo=instagram&logoColor=white"></a>
   <a href="https://www.tiktok.com/@powerbander"><img src="https://img.shields.io/badge/TikTok-@powerbander-000000?logo=tiktok&logoColor=white"></a>
   <a href="https://www.youtube.com/@Powerbander"><img src="https://img.shields.io/badge/YouTube-@Powerbander-FF0000?logo=youtube&logoColor=white"></a>
 </p>
