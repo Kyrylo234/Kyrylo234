@@ -11,7 +11,7 @@
 🚀 Building **[PowerBander](https://powerbander.tech/)** - a JDM-inspired hardware brand
 <br>🔔 Currently launching **Touge Chime**
 <br>📬 **100+ email subscribers** for batch 1
-<br>📸 **450+ followers** on Instagram with **150k+** organic views
+<br>📸 **500+ followers** on Instagram with **150k+** organic views
 
 <p>
   <a href="https://instagram.com/powerbander"><img src="https://img.shields.io/badge/Instagram-@powerbander-E4405F?logo=instagram&logoColor=white"></a>
