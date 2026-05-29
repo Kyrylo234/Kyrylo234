@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kyrylo</h1>
-<h3 align="center">Incoming MSc Computer Science @ St Andrews • Maker of Touge Chime • Startup Enthusiast</h3>
+<h3 align="center">Incoming MSc Computer Science @ St Andrews • Founder of Powerbander • Shipping JDM Hardware From Scratch</h3>
 
 <p align="center">
   <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
@@ -12,6 +12,7 @@
 <br>🔔 Currently launching **Touge Chime**
 <br>📬 **100+ email subscribers** for batch 1
 <br>📸 **500+ followers** on Instagram with **150k+** organic views
+<br>🖥️ Self-hosting on Raspberry Pi 4 via Cloudflare Tunnel — running Docker containers with GitHub Actions CI/CD for zero-downtime deploys
 
 <p>
   <a href="https://instagram.com/powerbander"><img src="https://img.shields.io/badge/Instagram-@powerbander-E4405F?logo=instagram&logoColor=white"></a>
@@ -26,7 +27,7 @@
 - Mechanical chime recreating the iconic Toyota AE86 "speeding chime" using an ESP32. 
 - Controlled via a Bluetooth Low Energy companion app.
 
-🔒 Private repo
+🔒 Private repo — hardware product in active sale
 
 <p align="center">
   <img src="images/chime.png" alt="Touge Chime" width="80%">
@@ -41,11 +42,11 @@
 <br>
 
 ### 🏎️ [3D Touge Chime Shop](https://powerbander.tech/)
-- Interactive 3D e-commerce store, styled after a garage.
-- Self-hosted on my **Raspberry Pi 4** using a **Cloudflare** tunnel.
+- Interactive 3D e-commerce store, styled after my dream garage.
+- Self-hosted on **Raspberry Pi 4** via **Cloudflare** Tunnel with **Docker** + **GitHub Actions** CI/CD
 - Built with **Next.js/Three.js**, using **Stripe** payment processing.
 
-🔒 Private repo
+🔒 Private repo — live production environment
 
 <p align="center">
   <img src="images/threeJS.gif" alt="Portfolio Website" width="80%">
