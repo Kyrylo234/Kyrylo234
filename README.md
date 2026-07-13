@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kyrylo</h1>
-<h3 align="center">Incoming MSc Computer Science @ St Andrews • Founder of Powerbander • Shipping JDM Hardware From Scratch</h3>
+<h3 align="center">Incoming MSc Computer Science @ St Andrews • Founder of Powerbander</h3>
 
 <p align="center">
   <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
@@ -10,8 +10,8 @@
 ## 🧑‍🔧 About Me
 🚀 Building **[PowerBander](https://powerbander.tech/)** - a JDM-inspired hardware brand
 <br>🔔 Currently launching **Touge Chime**
-<br>📬 **150+ email subscribers** for batch 1
-<br>📸 **500+ followers** on Instagram with **500k+** organic views across platforms
+<br>📬 **200+ email subscribers** for batch 1
+<br>📸 **600+ followers** on Instagram with **500k+** organic views across platforms
 <br>🖥️ Self-hosting on Raspberry Pi 4 via Cloudflare Tunnel — running Docker containers with GitHub Actions CI/CD for zero-downtime deploys
 
 <p>
