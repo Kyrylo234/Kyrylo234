@@ -8,10 +8,10 @@
 </p>
 
 ## 🧑‍🔧 About Me
-🚀 Building **[PowerBander](https://powerbander.tech/)** - a JDM-inspired hardware brand
+🚀 Building **[PowerBander](https://powerbander.tech/)**, a JDM inspired hardware brand
 <br>🔔 Currently launching **Touge Chime**
 <br>📬 **200+ email subscribers** for batch 1
-<br>📸 **700+ followers** on Instagram with **1M+** organic views across platforms
+<br>📸 **900+ Instagram** followers with **1M+** organic views across platforms
 <br>🖥️ Self-hosting on Raspberry Pi 4 via Cloudflare Tunnel — running Docker containers with GitHub Actions CI/CD
 
 <p>
@@ -24,8 +24,9 @@
 ## 🧩 Favourite Projects
 
 ### 🔔 [Touge Chime](https://powerbander.tech/)
-- Mechanical chime recreating the iconic Toyota AE86 "speeding chime" using an ESP32. 
+- Recreating the iconic Mechanical Toyota AE86 "speeding chime" using an ESP32 Mini. 
 - Controlled via a Bluetooth Low Energy companion app.
+- Engineered from scratch and documented the progress on social media.
 
 🔒 Private repo — hardware product in active sale
 
@@ -42,7 +43,7 @@
 <br>
 
 ### 🏎️ [3D Touge Chime Shop](https://powerbander.tech/)
-- Interactive 3D e-commerce store, styled after my dream garage.
+- Interactive 3D e-commerce store.
 - Self-hosted on **Raspberry Pi 4** via **Cloudflare** Tunnel with **Docker** + **GitHub Actions** CI/CD
 - Built with **Next.js/Three.js**, using **Stripe** payment processing.
 
@@ -91,7 +92,8 @@
 <br>
 
 ### 🖥️ [Portfolio Website](https://kyrylo.uk/)
-- Portfolio website inspired by Ubuntu Linux or an iOS device (based on your device), featuring a Falling Blocks game with persistent high scores. Built with **React.js**, **Node.js**, and **SQLite3**.
+- Portfolio website styled like the Ubuntu Linux desktop or iOS (based on your device)
+- Features a Falling Blocks game with persistent high scores.
 
 📂 [View Repo](https://github.com/Kyrylo234/Linux_portfolio_website)
 
@@ -111,7 +113,7 @@
 <br>
 
 ### 🖼️ [Image To STL](https://github.com/Kyrylo234/image_to_stl)
-Convert any image into 3D printable STL models with **Python**!
+- Convert any image into 3D printable STL models with **Python**!
 
 📂 [View Repo](https://github.com/Kyrylo234/Image_to_stl)
 
@@ -130,7 +132,7 @@ Convert any image into 3D printable STL models with **Python**!
 <br>
 
 ### 🚛 [RPER LTD](https://rpparts.uk)
-Web store for RPER LTD.
+- Website for RPER LTD.
 
 🔒 Private repo - Company's website
 
