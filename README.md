@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hi, I'm Kyrylo</h1>
-<h3 align="center">Incoming MSc Computer Science @ St Andrews • Founder of Powerbander</h3>
+<h3 align="center">Incoming MSc Computer Science @ St Andrews | Founder of &nbsp;<img src="./images/PowerBander.svg" alt="POWERBANDER" height="18"/></h3>
 
 <p align="center">
   <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
   <a href="https://www.linkedin.com/in/kyryloposty/" target="_blank">💼 LinkedIn</a> |
   <a href="https://www.kaggle.com/kyrylo234" target="_blank">🤖 Kaggle</a>
+  
 </p>
-
-<img src="./assets/PowerBander.svg" alt="POWERBANDER" height="60" />
 
 ## 🧑‍🔧 About Me
 🚀 Building **[PowerBander](https://powerbander.tech/)**, a JDM inspired hardware brand
