@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kyrylo</h1>
-<h3 align="center">Incoming MSc Computer Science @ St Andrews • Founder of Powerbander • Shipping JDM Hardware From Scratch</h3>
+<h3 align="center">Incoming MSc Computer Science @ St Andrews • Founder of Powerbander</h3>
 
 <p align="center">
   <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
@@ -8,11 +8,11 @@
 </p>
 
 ## 🧑‍🔧 About Me
-🚀 Building **[PowerBander](https://powerbander.tech/)** - a JDM-inspired hardware brand
+🚀 Building **[PowerBander](https://powerbander.tech/)**, a JDM inspired hardware brand
 <br>🔔 Currently launching **Touge Chime**
-<br>📬 **150+ email subscribers** for batch 1
-<br>📸 **500+ followers** on Instagram with **500k+** organic views across platforms
-<br>🖥️ Self-hosting on Raspberry Pi 4 via Cloudflare Tunnel — running Docker containers with GitHub Actions CI/CD for zero-downtime deploys
+<br>📬 **250+ email subscribers** for batch 1
+<br>📸 **900+ Instagram** followers with **1M+** organic views across platforms
+<br>🖥️ Self-hosting on Raspberry Pi 4 via Cloudflare Tunnel — running Docker containers with GitHub Actions CI/CD
 
 <p>
   <a href="https://instagram.com/powerbander"><img src="https://img.shields.io/badge/Instagram-@powerbander-E4405F?logo=instagram&logoColor=white"></a>
@@ -24,8 +24,9 @@
 ## 🧩 Favourite Projects
 
 ### 🔔 [Touge Chime](https://powerbander.tech/)
-- Mechanical chime recreating the iconic Toyota AE86 "speeding chime" using an ESP32. 
+- Recreating the iconic Mechanical Toyota AE86 "speeding chime" using an ESP32 Mini. 
 - Controlled via a Bluetooth Low Energy companion app.
+- Engineered from scratch and documented the progress on social media.
 
 🔒 Private repo — hardware product in active sale
 
@@ -42,7 +43,7 @@
 <br>
 
 ### 🏎️ [3D Touge Chime Shop](https://powerbander.tech/)
-- Interactive 3D e-commerce store, styled after my dream garage.
+- Interactive 3D e-commerce store.
 - Self-hosted on **Raspberry Pi 4** via **Cloudflare** Tunnel with **Docker** + **GitHub Actions** CI/CD
 - Built with **Next.js/Three.js**, using **Stripe** payment processing.
 
@@ -91,7 +92,8 @@
 <br>
 
 ### 🖥️ [Portfolio Website](https://kyrylo.uk/)
-- Portfolio website inspired by Ubuntu Linux or an iOS device (based on your device), featuring a Falling Blocks game with persistent high scores. Built with **React.js**, **Node.js**, and **SQLite3**.
+- Portfolio website styled like the Ubuntu Linux desktop or iOS (based on your device)
+- Features a Falling Blocks game with persistent high scores.
 
 📂 [View Repo](https://github.com/Kyrylo234/Linux_portfolio_website)
 
@@ -111,7 +113,7 @@
 <br>
 
 ### 🖼️ [Image To STL](https://github.com/Kyrylo234/image_to_stl)
-Convert any image into 3D printable STL models with **Python**!
+- Convert any image into 3D printable STL models with **Python**!
 
 📂 [View Repo](https://github.com/Kyrylo234/Image_to_stl)
 
@@ -125,4 +127,27 @@ Convert any image into 3D printable STL models with **Python**!
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Trimesh-FF6600?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gradio-1DA1F2?style=flat&logo=gradio&logoColor=white" />
+</p>
+
+<br>
+
+### 🚛 [RPER LTD](https://rpparts.uk)
+- Website for RPER LTD.
+
+🔒 Private repo - Company's website
+
+<p align="center">
+  <img src="images/RPER.png" alt="RPER LTD" width="80%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
