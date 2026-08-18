@@ -7,6 +7,8 @@
   <a href="https://www.kaggle.com/kyrylo234" target="_blank">🤖 Kaggle</a>
 </p>
 
+<img src="./assets/PowerBander.svg" alt="POWERBANDER" height="60" />
+
 ## 🧑‍🔧 About Me
 🚀 Building **[PowerBander](https://powerbander.tech/)**, a JDM inspired hardware brand
 <br>🔔 Currently launching **Touge Chime**
