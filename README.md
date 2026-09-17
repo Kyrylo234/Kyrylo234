@@ -11,9 +11,9 @@
 ## 🧑‍🔧 About Me
 🚀 Building **[PowerBander](https://powerbander.tech/)**, a JDM inspired hardware brand
 <br>🔔 Currently launching **Touge Chime**
-<br>📬 **250+ email subscribers** for batch 1
-<br>📸 **900+ Instagram** followers with **1M+** organic views across platforms
-<br>🖥️ Self-hosting on Raspberry Pi 4 via Cloudflare Tunnel — running Docker containers with GitHub Actions CI/CD
+<br>📬 **300+ Email sign-ups** for batch 1
+<br>📸 **1k+ Instagram** followers with **1M+** organic views across platforms
+<br>🖥️ Self-hosting on Raspberry Pi via Cloudflare Tunnel — running Docker containers with GitHub Actions CI/CD
 
 <p>
   <a href="https://instagram.com/powerbander"><img src="https://img.shields.io/badge/Instagram-@powerbander-E4405F?logo=instagram&logoColor=white"></a>
