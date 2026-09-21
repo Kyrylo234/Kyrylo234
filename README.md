@@ -25,9 +25,14 @@
 ## 🧩 Favourite Projects
 
 ### 🔔 [Touge Chime](https://powerbander.tech/)
-- Recreating the iconic Mechanical Toyota AE86 "speeding chime" using an ESP32 Mini. 
-- Controlled via a Bluetooth Low Energy companion app.
-- Engineered from scratch and documented the progress on social media.
+Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chime. Documented the progress on Instagram reels and TikTok to collect emails for batch 1.  
+
+Design & Physical Prototyping: 
+▪ Designed the custom enclosure in FreeCAD, hand-soldered the Batch 1 electronics assembly.
+▪ Fabricated the chime plates from scratch using Audacity spectral analysis to tune them to the exact target frequencies.
+
+Firmware & Embedded Systems: 
+▪ Programmed an ESP32 Mini microcontroller, leveraging dual cores to handle BLE companion app connectivity alongside GPS data processing and solenoid control.
 
 🔒 Private repo — hardware product in active sale
 
