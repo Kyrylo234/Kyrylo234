@@ -5,15 +5,15 @@
   <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
   <a href="https://www.linkedin.com/in/kyryloposty/" target="_blank">💼 LinkedIn</a> |
   <a href="https://www.kaggle.com/kyrylo234" target="_blank">🤖 Kaggle</a>
-  
 </p>
 
 ## 🧑‍🔧 About Me
-🚀 Building **[PowerBander](https://powerbander.tech/)**, a JDM inspired hardware brand
-<br>🔔 Currently launching **Touge Chime**
+👨‍🎓 Focusing on Artificial Intelligence & Software Product Management, with a strong interest in the intersection of embedded systems and machine learning
+<br>🚀 Launching a hardware product **[Touge Chime](https://powerbander.tech/)**
 <br>📬 **300+ Email sign-ups** for batch 1
 <br>📸 **1k+ Instagram** followers with **1M+** organic views across platforms
-<br>🖥️ Self-hosting on Raspberry Pi via Cloudflare Tunnel — running Docker containers with GitHub Actions CI/CD
+<br>🛠️ CAD design, embedded C, published iOS BLE app, 3D web store, and self-hosted server infrastructure
+
 
 <p>
   <a href="https://instagram.com/powerbander"><img src="https://img.shields.io/badge/Instagram-@powerbander-E4405F?logo=instagram&logoColor=white"></a>
