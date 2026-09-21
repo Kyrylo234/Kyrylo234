@@ -8,12 +8,10 @@
 </p>
 
 ## 🧑‍🔧 About Me
-👨‍🎓 Focusing on Artificial Intelligence & Software Product Management, with a strong interest in the intersection of embedded systems and machine learning
-<br>🚀 Launching a hardware product **[Touge Chime](https://powerbander.tech/)**
-<br>📬 **300+ Email sign-ups** for batch 1
-<br>📸 **1k+ Instagram** followers with **1M+** organic views across platforms
-<br>🛠️ CAD design, embedded C, published iOS BLE app, 3D web store, and self-hosted server infrastructure
-
+- 👨‍🎓 Focusing on **Artificial Intelligence & Software Product Management**, with a strong interest in the intersection of embedded systems and machine learning.
+- 🚀 Launching hardware product **[Touge Chime](https://powerbander.tech/)** — **300+ Batch 1 email sign-ups**.
+- 📸 **1k+ Instagram** followers with **1M+ organic views** across platforms.
+- 🛠️ CAD design, embedded C, published iOS BLE app, 3D web store, and self-hosted server infrastructure.
 
 <p>
   <a href="https://instagram.com/powerbander"><img src="https://img.shields.io/badge/Instagram-@powerbander-E4405F?logo=instagram&logoColor=white"></a>
@@ -21,23 +19,15 @@
   <a href="https://www.youtube.com/@Powerbander"><img src="https://img.shields.io/badge/YouTube-@Powerbander-FF0000?logo=youtube&logoColor=white"></a>
 </p>
 
+---
 
-## 🧩 Favourite Projects
+## ⚡ Featured Projects
 
 ### 🔔 [Touge Chime](https://powerbander.tech/)
-Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chime. Documented the progress on Instagram reels and TikTok to collect emails for batch 1.  
-
-Design & Physical Prototyping: 
-▪ Designed the custom enclosure in FreeCAD, hand-soldered the Batch 1 electronics assembly.
-▪ Fabricated the chime plates from scratch using Audacity spectral analysis to tune them to the exact target frequencies.
-
-Firmware & Embedded Systems: 
-▪ Programmed an ESP32 Mini microcontroller, leveraging dual cores to handle BLE companion app connectivity alongside GPS data processing and solenoid control.
-
-🔒 Private repo — hardware product in active sale
+Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chime. Documented progress on social media to build launch traction.
 
 <p align="center">
-  <img src="images/chime.png" alt="Touge Chime" width="80%">
+  <img src="images/chime.png" alt="Touge Chime" width="70%">
 </p>
 
 <p>
@@ -46,114 +36,79 @@ Firmware & Embedded Systems:
   <img src="https://img.shields.io/badge/-Bluetooth_LE-0082FC?style=flat&logo=bluetooth&logoColor=white">
 </p>
 
-<br>
+- **Design & Physical Prototyping:** Designed enclosure in FreeCAD; hand-soldered Batch 1 assembly. Fabricated chime plates from scratch using Audacity spectral analysis for precise frequency tuning.
+- **Firmware & Embedded:** Programmed dual-core ESP32 Mini to execute real-time GPS processing, solenoid pulse control, and BLE communication simultaneously.
+
+---
 
 ### 🏎️ [3D Touge Chime Shop](https://powerbander.tech/)
-- Interactive 3D e-commerce store.
-- Self-hosted on **Raspberry Pi 4** via **Cloudflare** Tunnel with **Docker** + **GitHub Actions** CI/CD
-- Built with **Next.js/Three.js**, using **Stripe** payment processing.
-
-🔒 Private repo — live production environment
+Architected an interactive, garage-themed full-stack 3D e-commerce storefront.
 
 <p align="center">
-  <img src="images/threeJS.gif" alt="Portfolio Website" width="80%">
+  <img src="images/threeJS.gif" alt="3D Shop Demo" width="70%">
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white">
-  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
 
-<br>
+- **Web 3D Pipeline:** Modeled garage environment in Blender; optimized geometry and compression for minimal load times. Rendered real-time lighting and interactions with Three.js.
+- **DevOps & Infrastructure:** Self-hosted on local Linux Raspberry Pi 4 behind Cloudflare Tunnels; automated builds via GitHub Actions CI/CD.
+
+---
 
 ### 📱 [Touge Chime Controller App](https://apps.apple.com/app/powerbander/id6762231997)
-- Bluetooth LE companion app for **Touge Chime**, built with  **Flutter**.
-- Features BLE speed control, live speedometer, and 10 JDM car themes
-- Available on iOS · Android coming soon
-
-🔒 Private repo
+Official cross-platform companion app delivering real-time wireless control and custom device configuration.
 
 <p align="center">
-  <img src="images/TougeChimeApp.png" alt="Touge Chime App Demo" width="80%">
+  <img src="images/TougeChimeApp.png" alt="Touge Chime App Demo" width="70%">
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/-Bluetooth_LE-0082FC?style=flat&logo=bluetooth&logoColor=white">
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/-iOS-000000?style=flat&logo=apple&logoColor=white">
 </p>
 
+- **Mobile Architecture:** Built with Flutter and shipped to the Apple App Store with BLE integration for fast hardware pairing.
+- **Protocol Design:** Engineered custom GATT services to stream live vehicle speed, set threshold speed and toggle chime operating modes.
+
+---
+
+## 🛠️ Other Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🖥️ Linux Desktop Portfolio</h3>
+      <p align="center"><img src="images/Website.png" width="100%" alt="Portfolio"></p>
+      <p>Ubuntu/iOS themed web desktop with an embedded Falling Blocks arcade game and persistent high scores.</p>
+      <p><b>Tech:</b> React, Node.js, SQLite</p>
+      <p align="center"><a href="https://github.com/Kyrylo234/Linux_portfolio_website">📂 GitHub Repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🖼️ Image to STL Converter</h3>
+      <p align="center"><img src="images/photo2.png" width="100%" alt="Image to STL"></p>
+      <p>Python tool that converts 2D raster images into 3D printable STL mesh models via heightmaps.</p>
+      <p><b>Tech:</b> Python, NumPy, Trimesh, Gradio</p>
+      <p align="center"><a href="https://github.com/Kyrylo234/Image_to_stl">📂 GitHub Repo</a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>💼 View Commercial Client Work (RPER LTD)</b></summary>
 <br>
-
-### 🖥️ [Portfolio Website](https://kyrylo.uk/)
-- Portfolio website styled like the Ubuntu Linux desktop or iOS (based on your device)
-- Features a Falling Blocks game with persistent high scores.
-
-📂 [View Repo](https://github.com/Kyrylo234/Linux_portfolio_website)
-
 <p align="center">
-  <img src="images/Website.png" alt="Portfolio Website" width="80%">
+  <img src="images/RPER.png" alt="RPER LTD" width="60%">
 </p>
-
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-</p>
-
-<br>
-
-### 🖼️ [Image To STL](https://github.com/Kyrylo234/image_to_stl)
-- Convert any image into 3D printable STL models with **Python**!
-
-📂 [View Repo](https://github.com/Kyrylo234/Image_to_stl)
-
 <p align="center">
-  <img src="images/photo2.png" alt="Image To STL" width="80%">
+  Web store for engineering company. Built using Next.js, TypeScript, Docker, and Cloudflare.
+  <br><i>(Private Repository)</i>
 </p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pillow-FFD43B?style=flat&logo=pillow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Trimesh-FF6600?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gradio-1DA1F2?style=flat&logo=gradio&logoColor=white" />
-</p>
-
-<br>
-
-### 🚛 [RPER LTD](https://rpparts.uk)
-- Website for RPER LTD.
-
-🔒 Private repo - Company's website
-
-<p align="center">
-  <img src="images/RPER.png" alt="RPER LTD" width="80%">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-</p>
+</details>
