@@ -27,7 +27,7 @@
 Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chime. Documented progress on social media to build launch traction.
 
 <p align="center">
-  <img src="images/chime.png" alt="Touge Chime" width="70%">
+  <img src="images/chime.webp" alt="Touge Chime" width="70%">
 </p>
 
 <p>
@@ -65,7 +65,7 @@ Architected an interactive, garage-themed full-stack 3D e-commerce storefront.
 Official cross-platform companion app delivering real-time wireless control and custom device configuration.
 
 <p align="center">
-  <img src="images/TougeChimeApp.png" alt="Touge Chime App Demo" width="70%">
+  <img src="images/TougeChimeApp.webp" alt="Touge Chime App Demo" width="70%">
 </p>
 
 <p>
@@ -86,14 +86,14 @@ Official cross-platform companion app delivering real-time wireless control and 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🖥️ Linux Desktop Portfolio</h3>
-      <p align="center"><img src="images/Website.png" width="100%" alt="Portfolio"></p>
+      <p align="center"><img src="images/Website.webp" width="100%" alt="Portfolio"></p>
       <p>Ubuntu/iOS themed web desktop with an embedded Falling Blocks arcade game and persistent high scores.</p>
       <p><b>Tech:</b> React, Node.js, SQLite</p>
       <p align="center"><a href="https://github.com/Kyrylo234/Linux_portfolio_website">📂 GitHub Repo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🖼️ Image to STL Converter</h3>
-      <p align="center"><img src="images/photo2.png" width="100%" alt="Image to STL"></p>
+      <p align="center"><img src="images/photo2.webp" width="100%" alt="Image to STL"></p>
       <p>Python tool that converts 2D raster images into 3D printable STL mesh models via heightmaps.</p>
       <p><b>Tech:</b> Python, NumPy, Trimesh, Gradio</p>
       <p align="center"><a href="https://github.com/Kyrylo234/Image_to_stl">📂 GitHub Repo</a></p>
@@ -105,7 +105,7 @@ Official cross-platform companion app delivering real-time wireless control and 
 <summary><b>💼 View Commercial Client Work (RPER LTD)</b></summary>
 <br>
 <p align="center">
-  <img src="images/RPER.png" alt="RPER LTD" width="60%">
+  <img src="images/RPER.webp" alt="RPER LTD" width="60%">
 </p>
 <p align="center">
   Web store for engineering company. Built using Next.js, TypeScript, Docker, and Cloudflare.
