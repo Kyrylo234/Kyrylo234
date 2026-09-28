@@ -3,12 +3,11 @@
 
 <p align="center">
   <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/kyryloposty/" target="_blank">💼 LinkedIn</a> |
-  <a href="https://www.kaggle.com/kyrylo234" target="_blank">🤖 Kaggle</a>
+  <a href="https://www.linkedin.com/in/kyryloposty/" target="_blank">💼 LinkedIn</a>
 </p>
 
 ## 🧑‍🔧 About Me
-- 👨‍🎓 Focusing on **Artificial Intelligence & Software Product Management**, with a strong interest in the intersection of embedded systems and machine learning.
+- 👨‍🎓 Focusing on **Low-Latency Systems**, **Artificial Intelligence**, and **Numerical Data Processing**.
 - 🚀 Launching hardware product **[Touge Chime](https://powerbander.tech/)** — **300+ Batch 1 email sign-ups**.
 - 📸 **1k+ Instagram** followers with **1M+ organic views** across platforms.
 - 🛠️ CAD design, embedded C, published iOS BLE app, 3D web store, and self-hosted server infrastructure.
@@ -78,6 +77,23 @@ Official cross-platform companion app delivering real-time wireless control and 
 - **Mobile Architecture:** Built with Flutter and shipped to the Apple App Store with BLE integration for fast hardware pairing.
 - **Protocol Design:** Engineered custom GATT services to stream live vehicle speed, set threshold speed and toggle chime operating modes.
 
+### 🖼️ [Image to STL Converter](https://github.com/Kyrylo234/image_to_stl)
+
+Engineered a Python data processing pipeline converting 2D image heightmaps into 3D printable STL models.
+
+<p align="center">
+  <img src="images/photo2.webp" alt="Image to STL Demo" width="70%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
+</p>
+
+- Utilizing Gaussian Blurring for noise reduction and surface smoothing.
+- Applied NumPy for low-latency, vectorized array transformations and 2D grid spatial calculations.
+- Implemented an interactive Gradio UI for real-time model rendering and parameter tuning.
+
 ---
 
 ## 🛠️ Other Work
@@ -92,23 +108,9 @@ Official cross-platform companion app delivering real-time wireless control and 
       <p align="center"><a href="https://github.com/Kyrylo234/Linux_portfolio_website">📂 GitHub Repo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🖼️ Image to STL Converter</h3>
-      <p align="center"><img src="images/photo2.webp" width="100%" alt="Image to STL"></p>
-      <p>Python tool that converts 2D raster images into 3D printable STL mesh models via heightmaps.</p>
-      <p><b>Tech:</b> Python, NumPy, Trimesh, Gradio</p>
-      <p align="center"><a href="https://github.com/Kyrylo234/Image_to_stl">📂 GitHub Repo</a></p>
+      <h3 align="center">💼 Commercial Client Work (RPER LTD)</h3>
+      <p align="center"><img src="images/RPER.webp" width="100%" alt="Portfolio"></p>
+      <p>Web store for engineering company.</p>
     </td>
   </tr>
 </table>
-
-<details>
-<summary><b>💼 View Commercial Client Work (RPER LTD)</b></summary>
-<br>
-<p align="center">
-  <img src="images/RPER.webp" alt="RPER LTD" width="60%">
-</p>
-<p align="center">
-  Web store for engineering company. Built using Next.js, TypeScript, Docker, and Cloudflare.
-  <br><i>(Private Repository)</i>
-</p>
-</details>
