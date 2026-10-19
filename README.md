@@ -9,7 +9,7 @@
 ## 🧑‍🔧 About Me
 - 👨‍🎓 Focusing on **Low-Latency Systems**, **Artificial Intelligence**, and **Numerical Data Processing**.
 - 🚀 Launching hardware product **[Touge Chime](https://powerbander.tech/)** — **300+ Batch 1 email sign-ups**.
-- 📸 **1k+ Instagram** followers with **1M+ organic views** across platforms.
+- 📸 **1k+ Instagram** followers with **1.5M+ organic views** across platforms.
 - 🛠️ CAD design, embedded C, published iOS BLE app, 3D web store, and self-hosted server infrastructure.
 
 <p>
