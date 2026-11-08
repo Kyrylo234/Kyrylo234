@@ -2,27 +2,25 @@
 <h3 align="center">MSc Computer Science @ St Andrews | Founder of &nbsp;<img src="./images/PowerBander.svg" alt="POWERBANDER" height="18"/></h3>
 
 <p align="center">
-  <a href="https://kyrylo.uk" target="_blank">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/kyryloposty/" target="_blank">💼 LinkedIn</a>
+  <a href="https://kyrylo.uk" target="_blank">Website Portfolio</a> |
+  <a href="https://www.linkedin.com/in/kyryloposty/" target="_blank">LinkedIn</a>
+  
 </p>
-
-## 🧑‍🔧 About Me
-- 👨‍🎓 Focusing on **Low-Latency Systems**, **Artificial Intelligence**, and **Numerical Data Processing**.
-- 🚀 Launching hardware product **[Touge Chime](https://powerbander.tech/)** — **300+ Batch 1 email sign-ups**.
-- 📸 **1k+ Instagram** followers with **1.5M+ organic views** across platforms.
-- 🛠️ CAD design, embedded C, published iOS BLE app, 3D web store, and self-hosted server infrastructure.
-
-<p>
+<p align="center">
   <a href="https://instagram.com/powerbander"><img src="https://img.shields.io/badge/Instagram-@powerbander-E4405F?logo=instagram&logoColor=white"></a>
   <a href="https://www.tiktok.com/@powerbander"><img src="https://img.shields.io/badge/TikTok-@powerbander-000000?logo=tiktok&logoColor=white"></a>
   <a href="https://www.youtube.com/@Powerbander"><img src="https://img.shields.io/badge/YouTube-@Powerbander-FF0000?logo=youtube&logoColor=white"></a>
 </p>
 
----
+## About Me
+- Focusing on **Low-Latency Systems**, **Artificial Intelligence**, and **Data Processing**.
+- Launching my own hardware product **[Touge Chime](https://powerbander.tech/)** — **300+ Batch 1 email sign-ups**.
+- **1k+ Instagram** followers with **1.5M+ organic views** across platforms.
+- CAD design, embedded C, published iOS BLE app, 3D web store, and self-hosted server infrastructure.
 
-## ⚡ Featured Projects
+## Projects
 
-### 🔔 [Touge Chime](https://powerbander.tech/)
+### [Touge Chime](https://powerbander.tech/)🔔
 Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chime. Documented progress on social media to build launch traction.
 
 <p align="center">
@@ -40,8 +38,8 @@ Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chi
 
 ---
 
-### 🏎️ [3D Touge Chime Shop](https://powerbander.tech/)
-Architected an interactive, garage-themed full-stack 3D e-commerce storefront.
+### [3D Store](https://powerbander.tech/)
+Built an interactive, garage-themed full-stack 3D e-commerce storefront using a custom Stripe backend to handle purchasing.
 
 <p align="center">
   <img src="images/threeJS.gif" alt="3D Shop Demo" width="70%">
@@ -60,7 +58,7 @@ Architected an interactive, garage-themed full-stack 3D e-commerce storefront.
 
 ---
 
-### 📱 [Touge Chime Controller App](https://apps.apple.com/app/powerbander/id6762231997)
+### [Official Touge Chime App](https://apps.apple.com/app/powerbander/id6762231997)
 Official cross-platform companion app delivering real-time wireless control and custom device configuration.
 
 <p align="center">
@@ -77,7 +75,7 @@ Official cross-platform companion app delivering real-time wireless control and 
 - **Mobile Architecture:** Built with Flutter and shipped to the Apple App Store with BLE integration for fast hardware pairing.
 - **Protocol Design:** Engineered custom GATT services to stream live vehicle speed, set threshold speed and toggle chime operating modes.
 
-### 🖼️ [Image to STL Converter](https://github.com/Kyrylo234/image_to_stl)
+### [Image to STL Converter](https://github.com/Kyrylo234/image_to_stl)
 
 Engineered a Python data processing pipeline converting 2D image heightmaps into 3D printable STL models.
 
@@ -96,19 +94,19 @@ Engineered a Python data processing pipeline converting 2D image heightmaps into
 
 ---
 
-## 🛠️ Other Work
+## Other Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🖥️ Linux Desktop Portfolio</h3>
+      <h3 align="center">Linux/IOS themed website portfolio</h3>
       <p align="center"><img src="images/Website.webp" width="100%" alt="Portfolio"></p>
       <p>Ubuntu/iOS themed web desktop with an embedded Falling Blocks arcade game and persistent high scores.</p>
       <p><b>Tech:</b> React, Node.js, SQLite</p>
       <p align="center"><a href="https://github.com/Kyrylo234/Linux_portfolio_website">📂 GitHub Repo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💼 Commercial Client Work (RPER LTD)</h3>
+      <h3 align="center">Commercial Work (RPER LTD)</h3>
       <p align="center"><img src="images/RPER.webp" width="100%" alt="Portfolio"></p>
       <p>Web store for engineering company.</p>
     </td>
