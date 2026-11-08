@@ -24,7 +24,7 @@
 Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chime. Documented progress on social media to build launch traction.
 
 <p align="center">
-  <img src="images/PROTOTYPE 1.webp" alt="Touge Chime" width="70%">
+  <img src="images/PROTOTYPE 1.png" alt="Touge Chime" width="70%">
 </p>
 
 <p>
