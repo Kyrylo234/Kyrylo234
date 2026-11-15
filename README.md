@@ -1,11 +1,12 @@
+
 <h1 align="center">👋 Hi, I'm Kyrylo</h1>
 <h3 align="center">MSc Computer Science @ St Andrews | Founder of &nbsp;<img src="./images/PowerBander.svg" alt="POWERBANDER" height="18"/></h3>
 
 <p align="center">
-  <a href="https://kyrylo.uk" target="_blank">Website Portfolio</a> |
-  <a href="https://www.linkedin.com/in/kyryloposty/" target="_blank">LinkedIn</a>
-  
+  <a href="https://kyrylo.uk">Website Portfolio</a> |
+  <a href="https://www.linkedin.com/in/kyryloposty/">LinkedIn</a>
 </p>
+
 <p align="center">
   <a href="https://instagram.com/powerbander"><img src="https://img.shields.io/badge/Instagram-@powerbander-E4405F?logo=instagram&logoColor=white"></a>
   <a href="https://www.tiktok.com/@powerbander"><img src="https://img.shields.io/badge/TikTok-@powerbander-000000?logo=tiktok&logoColor=white"></a>
@@ -13,17 +14,16 @@
 </p>
 
 ## About Me
+
 - Focusing on **Low-Latency Systems**, **Artificial Intelligence**, and **Data Processing**.
-- Launching my own hardware product **[Touge Chime](https://powerbander.tech/)** — **300+ Batch 1 email sign-ups**.
-- **1k+ Instagram** followers with **1.5M+ organic views** across platforms.
-- CAD design, embedded C, published iOS BLE app, 3D web store, and self-hosted server infrastructure.
-
-
+- Founder of **[Touge Chime](https://powerbander.tech/)** — developing an embedded hardware product with **300+ Batch 1 email sign-ups**.
+- Built and launched an iOS BLE app, a 3D e-commerce store, and self-hosted infrastructure. Reached **1k+ Instagram followers** and **1.5M+ organic views** across platforms.
 
 ## Personal Projects
 
-### [Touge Chime](https://powerbander.tech/)🔔
-Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chime. Documented progress on social media to build launch traction.
+### [Touge Chime](https://powerbander.tech/) 🔔
+
+Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chime, combining custom hardware, embedded firmware, and precision-tuned acoustics.
 
 <p align="center">
   <img src="images/PROTOTYPE 1.png" alt="Touge Chime" width="70%">
@@ -35,13 +35,14 @@ Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chi
   <img src="https://img.shields.io/badge/-Bluetooth_LE-0082FC?style=flat&logo=bluetooth&logoColor=white">
 </p>
 
-- **Design & Physical Prototyping:** Designed enclosure in FreeCAD; hand-soldered Batch 1 assembly. Fabricated chime plates from scratch using Audacity spectral analysis for precise frequency tuning.
-- **Firmware & Embedded:** Programmed dual-core ESP32 Mini to execute real-time GPS processing, solenoid pulse control, and BLE communication simultaneously.
+- **Design & Prototyping:** Designed the enclosure in FreeCAD, hand-soldered prototypes, and fabricated chime plates using Audacity spectral analysis for precise frequency tuning.
+- **Firmware & Embedded:** Programmed a dual-core ESP32 Mini to handle real-time GPS processing, solenoid pulse control, and BLE communication simultaneously.
 
 ---
 
 ### [3D Store](https://powerbander.tech/)
-Built an interactive, garage-themed full-stack 3D e-commerce storefront using a custom Stripe backend to handle purchasing.
+
+Built an interactive, garage-themed 3D e-commerce storefront with a custom Stripe payment backend.
 
 <p align="center">
   <img src="images/threeJS.gif" alt="3D Shop Demo" width="70%">
@@ -55,13 +56,14 @@ Built an interactive, garage-themed full-stack 3D e-commerce storefront using a 
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
-- **Web 3D Pipeline:** Modeled garage environment in Blender; optimized geometry and compression for minimal load times. Rendered real-time lighting and interactions with Three.js.
-- **DevOps & Infrastructure:** Self-hosted on local Linux Raspberry Pi 4 behind Cloudflare Tunnels; automated builds via GitHub Actions CI/CD.
+- **3D Web Development:** Modelled and optimised the garage environment in Blender, implementing real-time lighting and interactions with Three.js.
+- **DevOps & Infrastructure:** Self-hosted on a Raspberry Pi 4 running Linux behind Cloudflare Tunnels, with automated CI/CD deployments through GitHub Actions.
 
 ---
 
 ### [Official Touge Chime App](https://apps.apple.com/app/powerbander/id6762231997)
-Official cross-platform companion app delivering real-time wireless control and custom device configuration.
+
+Published a cross-platform companion app providing real-time wireless control and configuration of the Touge Chime hardware.
 
 <p align="center">
   <img src="images/TougeChimeApp.webp" alt="Touge Chime App Demo" width="70%">
@@ -74,12 +76,14 @@ Official cross-platform companion app delivering real-time wireless control and 
   <img src="https://img.shields.io/badge/-iOS-000000?style=flat&logo=apple&logoColor=white">
 </p>
 
-- **Mobile Architecture:** Built with Flutter and shipped to the Apple App Store with BLE integration for fast hardware pairing.
-- **Protocol Design:** Engineered custom GATT services to stream live vehicle speed, set threshold speed and toggle chime operating modes.
+- **Mobile Development:** Developed and published the Flutter app to the Apple App Store, implementing BLE connectivity for hardware pairing and control.
+- **Protocol Design:** Engineered custom GATT services for live vehicle speed monitoring, speed threshold configuration, and chime operating modes.
+
+---
 
 ### [Image to STL Converter](https://github.com/Kyrylo234/image_to_stl)
 
-Engineered a Python data processing pipeline converting 2D image heightmaps into 3D printable STL models.
+Developed a Python data processing pipeline that converts 2D image heightmaps into 3D-printable STL models.
 
 <p align="center">
   <img src="images/photo2.webp" alt="Image to STL Demo" width="70%">
@@ -90,18 +94,22 @@ Engineered a Python data processing pipeline converting 2D image heightmaps into
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
 </p>
 
-- Utilizing Gaussian Blurring for noise reduction and surface smoothing.
-- Applied NumPy for low-latency, vectorized array transformations and 2D grid spatial calculations.
-- Implemented an interactive Gradio UI for real-time model rendering and parameter tuning.
+- **Image Processing:** Applied Gaussian blurring and vectorised NumPy operations for noise reduction, surface smoothing, and 3D mesh generation.
+- **Interactive Interface:** Built a Gradio UI for model visualisation and parameter tuning.
+
+---
 
 ## Hackathon Projects
 
-### [Git_Happens](https://git-happens-peach.vercel.app)
-Co-built a GitHub repository analysis tool that turns questionable commit habits into playful contributor leaderboards, achievements, and live README charts.
+### [Git Happens](https://git-happens-peach.vercel.app)
+
+**Hackathon Team Project (2 Developers) | My Role: Frontend Developer**
+
+Collaborated with [Charlie Bloomfield](https://github.com/Charlie-Bloomfield) to build a GitHub analytics tool that ranks questionable commit habits through humorous achievements and interactive visualisations.
 
 <p align="center">
   <a href="https://git-happens-peach.vercel.app/">
-    <img src="https://git-happens-peach.vercel.app/api/charts/score-breakdown.svg?repo=Charlie-Bloomfield%2FGit_Happens&theme=light" alt="Git_Happens score breakdown" width="70%">
+    <img src="https://git-happens-peach.vercel.app/api/charts/score-breakdown.svg?repo=Charlie-Bloomfield%2FGit_Happens&theme=light" alt="Git Happens score breakdown" width="70%">
   </a>
 </p>
 
@@ -112,10 +120,10 @@ Co-built a GitHub repository analysis tool that turns questionable commit habits
   <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
 </p>
 
-- **Repository Analytics:** Analyses public GitHub commit history to score reverts, oversized changes, late-night activity, and suspicious commit messages.
-- **Interactive Dashboard & Embeds:** Presents contributor rankings and humorous achievements alongside live SVG charts that can be embedded directly into GitHub READMEs.
+- **Frontend Development:** Built an interactive dashboard using Next.js, React, TypeScript, and Tailwind CSS to display contributor rankings, repository scores, and achievements.
+- **Integration & Visualisation:** Connected the frontend to the team's repository analysis functionality and integrated dynamic SVG charts embeddable in GitHub READMEs.
 
-[GitHub Repo](https://github.com/Charlie-Bloomfield/Git_Happens)
+[GitHub Repository](https://github.com/Charlie-Bloomfield/Git_Happens)
 
 ---
 
@@ -124,16 +132,16 @@ Co-built a GitHub repository analysis tool that turns questionable commit habits
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Linux/IOS themed website portfolio</h3>
+      <h3 align="center">Linux/iOS Themed Website Portfolio</h3>
       <p align="center"><img src="images/Website.webp" width="100%" alt="Portfolio"></p>
-      <p>Ubuntu/iOS themed web desktop with an embedded Falling Blocks arcade game and persistent high scores.</p>
+      <p>Ubuntu/iOS-themed web desktop featuring an embedded Falling Blocks arcade game and persistent high scores.</p>
       <p><b>Tech:</b> React, Node.js, SQLite</p>
       <p align="center"><a href="https://github.com/Kyrylo234/Linux_portfolio_website">📂 GitHub Repo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Commercial Work (RPER LTD)</h3>
-      <p align="center"><img src="images/RPER.webp" width="100%" alt="Portfolio"></p>
-      <p>Web store for engineering company.</p>
+      <p align="center"><img src="images/RPER.webp" width="100%" alt="Commercial Web Store"></p>
+      <p>Developed a web store for an engineering company.</p>
     </td>
   </tr>
 </table>
