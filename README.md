@@ -97,8 +97,6 @@ Developed a Python data processing pipeline that converts 2D image heightmaps in
 - **Image Processing:** Applied Gaussian blurring and vectorised NumPy operations for noise reduction, surface smoothing, and 3D mesh generation.
 - **Interactive Interface:** Built a Gradio UI for model visualisation and parameter tuning.
 
----
-
 ## Hackathon Projects
 
 ### [Git Happens](https://git-happens-peach.vercel.app)
