@@ -123,7 +123,7 @@ Collaborated with [Charlie Bloomfield](https://github.com/Charlie-Bloomfield) to
 
 [GitHub Repository](https://github.com/Charlie-Bloomfield/Git_Happens)
 
----
+
 
 ## Other Work
 
