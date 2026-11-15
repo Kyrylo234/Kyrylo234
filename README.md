@@ -20,6 +20,29 @@
 
 ## Projects
 
+### [Git_Happens](https://github.com/Charlie-Bloomfield/Git_Happens)
+Co-built a GitHub repository analysis tool that turns questionable commit habits into playful contributor leaderboards, achievements, and live README charts.
+
+<p align="center">
+  <a href="https://git-happens-peach.vercel.app/">
+    <img src="https://git-happens-peach.vercel.app/api/charts/score-breakdown.svg?repo=Charlie-Bloomfield%2FGit_Happens&theme=light" alt="Git_Happens score breakdown" width="70%">
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+</p>
+
+- **Repository Analytics:** Analyses public GitHub commit history to score reverts, oversized changes, late-night activity, and suspicious commit messages.
+- **Interactive Dashboard & Embeds:** Presents contributor rankings and humorous achievements alongside live SVG charts that can be embedded directly into GitHub READMEs.
+
+[Live Demo](https://git-happens-peach.vercel.app/) | [GitHub Repo](https://github.com/Charlie-Bloomfield/Git_Happens)
+
+---
+
 ### [Touge Chime](https://powerbander.tech/)🔔
 Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chime. Documented progress on social media to build launch traction.
 
