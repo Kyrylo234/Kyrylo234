@@ -16,7 +16,7 @@
 ## About Me
 
 - Focusing on **Low-Latency Systems**, **Artificial Intelligence**, and **Data Processing**.
-- Founder of **[Touge Chime](https://powerbander.tech/)** — developing an embedded hardware product with **300+ Batch 1 email sign-ups**.
+- Founder of **[PowerBander](https://powerbander.tech/)** — developing an embedded hardware product with **300+ Batch 1 email sign-ups**.
 - Built and launched an iOS BLE app, a 3D e-commerce store, and self-hosted infrastructure. Reached **1k+ Instagram followers** and **1.5M+ organic views** across platforms.
 
 ## Personal Projects
