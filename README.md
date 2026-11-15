@@ -18,7 +18,7 @@
 - **1k+ Instagram** followers with **1.5M+ organic views** across platforms.
 - CAD design, embedded C, published iOS BLE app, 3D web store, and self-hosted server infrastructure.
 
-## Projects
+## Hackathon Projects
 
 ### [Git_Happens](https://github.com/Charlie-Bloomfield/Git_Happens)
 Co-built a GitHub repository analysis tool that turns questionable commit habits into playful contributor leaderboards, achievements, and live README charts.
@@ -42,6 +42,8 @@ Co-built a GitHub repository analysis tool that turns questionable commit habits
 [Live Demo](https://git-happens-peach.vercel.app/) | [GitHub Repo](https://github.com/Charlie-Bloomfield/Git_Happens)
 
 ---
+
+## Personal Projects
 
 ### [Touge Chime](https://powerbander.tech/)🔔
 Engineered a modern recreation of the iconic Toyota AE86 mechanical speeding chime. Documented progress on social media to build launch traction.
