@@ -79,25 +79,31 @@ Published a cross-platform companion app providing real-time wireless control an
 - **Mobile Development:** Developed and published the Flutter app to the Apple App Store, implementing BLE connectivity for hardware pairing and control.
 - **Protocol Design:** Engineered custom GATT services for live vehicle speed monitoring, speed threshold configuration, and chime operating modes.
 
----
+## Hackathon Projects
 
-### [Image to STL Converter](https://github.com/Kyrylo234/image_to_stl)
+### SitRep — Global News Intelligence
 
-Developed a Python data processing pipeline that converts 2D image heightmaps into 3D-printable STL models.
+**Hackathon Project | Full-Stack Development & AI Integration**
+
+Developed an interactive geopolitical intelligence platform that visualises global news on a 3D globe, using AI to analyse headlines and map events to their geographic locations.
 
 <p align="center">
-  <img src="images/photo2.webp" alt="Image to STL Demo" width="70%">
+  <img src="images/SitRep.gif" alt="SitRep interactive global news intelligence dashboard" width="70%">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white">
 </p>
 
-- **Image Processing:** Applied Gaussian blurring and vectorised NumPy operations for noise reduction, surface smoothing, and 3D mesh generation.
-- **Interactive Interface:** Built a Gradio UI for model visualisation and parameter tuning.
+- **AI & Data Processing:** Integrated Gemini to analyse RSS news headlines, extract geographic locations, and estimate event sentiment and severity, with heuristic fallback when AI is unavailable.
+- **Full-Stack Development:** Built an interactive news globe backed by Supabase, implementing shared RSS ingestion, persistent news archiving, and cached AI analysis to reduce redundant processing.
+- **Future Development:** Expanding the platform with historical news exploration and AI-driven geopolitical strategy simulations based on real historical events.
 
-## Hackathon Projects
+---
 
 ### [Git Happens](https://git-happens-peach.vercel.app)
 
@@ -124,22 +130,52 @@ Collaborated with [Charlie Bloomfield](https://github.com/Charlie-Bloomfield) to
 [GitHub Repository](https://github.com/Charlie-Bloomfield/Git_Happens)
 
 
-
 ## Other Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Linux/iOS Themed Website Portfolio</h3>
-      <p align="center"><img src="images/Website.webp" width="100%" alt="Portfolio"></p>
-      <p>Ubuntu/iOS-themed web desktop featuring an embedded Falling Blocks arcade game and persistent high scores.</p>
-      <p><b>Tech:</b> React, Node.js, SQLite</p>
-      <p align="center"><a href="https://github.com/Kyrylo234/Linux_portfolio_website">📂 GitHub Repo</a></p>
+      <p align="center">
+        <img src="images/Website.webp" width="100%" alt="Portfolio">
+      </p>
+      <p>Ubuntu/iOS-themed web desktop featuring an embedded Falling Blocks arcade game and persistent high scores.</p>      
+      <p align="center">
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/Kyrylo234/Linux_portfolio_website">GitHub Repository</a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Commercial Work (RPER LTD)</h3>
-      <p align="center"><img src="images/RPER.webp" width="100%" alt="Commercial Web Store"></p>
+      <p align="center">
+        <img src="images/RPER.webp" width="100%" alt="Commercial Web Store">
+      </p>
       <p>Developed a web store for an engineering company.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/Kyrylo234/image_to_stl">Image to STL Converter</a>
+      </h3>
+      <p align="center">
+        <img src="images/photo2.webp" width="65%" alt="Image to STL Converter">
+      </p>
+      <p>Developed a Python data processing pipeline that converts 2D image heightmaps into 3D-printable STL models.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/Kyrylo234/image_to_stl">GitHub Repository</a>
+      </p>
     </td>
   </tr>
 </table>
