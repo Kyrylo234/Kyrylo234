@@ -88,7 +88,7 @@ Published a cross-platform companion app providing real-time wireless control an
 Developed an interactive geopolitical intelligence platform that visualises global news on a 3D globe, using AI to analyse headlines and map events to their geographic locations.
 
 <p align="center">
-  <img src="images/SitRep.gif" alt="SitRep interactive global news intelligence dashboard" width="70%">
+  <img src="images/globe-demo.gif" alt="SitRep interactive global news intelligence dashboard" width="70%">
 </p>
 
 <p>
