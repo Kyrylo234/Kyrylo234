@@ -81,9 +81,9 @@ Published a cross-platform companion app providing real-time wireless control an
 
 ## Hackathon Projects
 
-### SitRep — Global News Intelligence
+### [SitRep — Global News Intelligence](https://sitrep-three.vercel.app)
 
-**Hackathon Project | Full-Stack Development & AI Integration**
+
 
 Developed an interactive geopolitical intelligence platform that visualises global news on a 3D globe, using AI to analyse headlines and map events to their geographic locations.
 
@@ -102,6 +102,9 @@ Developed an interactive geopolitical intelligence platform that visualises glob
 - **AI & Data Processing:** Integrated Gemini to analyse RSS news headlines, extract geographic locations, and estimate event sentiment and severity, with heuristic fallback when AI is unavailable.
 - **Full-Stack Development:** Built an interactive news globe backed by Supabase, implementing shared RSS ingestion, persistent news archiving, and cached AI analysis to reduce redundant processing.
 - **Future Development:** Expanding the platform with historical news exploration and AI-driven geopolitical strategy simulations based on real historical events.
+
+[SitRep Repository](https://github.com/Kyrylo234/github-connection-check)
+
 
 ---
 
